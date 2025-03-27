@@ -29,14 +29,14 @@ jobs:
       - name: get packwiz hashes
         run: |
           go install github.com/packwiz/packwiz@latest
-          cd SkyCraft2 && /home/runner/go/bin/packwiz refresh --build
+          cd NyxVanilla && /home/runner/go/bin/packwiz refresh --build
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload main folder
-          path: 'SkyCraft2/'
+          path: 'NyxVanilla/'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
