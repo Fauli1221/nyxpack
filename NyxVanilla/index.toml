@@ -1,0 +1,244 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/additional-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/armorstandeditor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/brewery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cpmoscc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cpmsvcc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers-polymer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polydecorations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polyfactory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-resource-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-polymer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/resource_pack.zip"
+
+[[files]]
+file = "resources/resourcepack/required/sparkles.pw.toml"
+metafile = true

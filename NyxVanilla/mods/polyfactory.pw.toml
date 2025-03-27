@@ -1,0 +1,13 @@
+name = "PolyFactory"
+filename = "polyfactory-0.6.2+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MikpSrAF/versions/TYxCtVG3/polyfactory-0.6.2%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "3534dc3b310acfe93639d64c6fb1159a0ea9de36647c1272e9ba9f8f8963c6879e6d099a42ae2c473d290ad166849f3191fc05d10ca95c26caf4834167350f89"
+
+[update]
+[update.modrinth]
+mod-id = "MikpSrAF"
+version = "TYxCtVG3"
