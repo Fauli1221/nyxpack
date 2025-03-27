@@ -89,6 +89,10 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 metafile = true
 
@@ -102,6 +106,10 @@ metafile = true
 
 [[files]]
 file = "mods/goml-reserved.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hd-skins.pw.toml"
 metafile = true
 
 [[files]]
@@ -125,6 +133,10 @@ file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 metafile = true
 
@@ -134,6 +146,10 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mine-little-pony.pw.toml"
 metafile = true
 
 [[files]]
@@ -205,6 +221,14 @@ file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/structory-towers.pw.toml"
 metafile = true
 
@@ -246,6 +270,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
 metafile = true
 
 [[files]]
