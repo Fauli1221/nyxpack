@@ -1,6 +1,6 @@
 name = "Extended Drawers"
 filename = "ExtendedDrawers-4.0.1+mc.1.21.4.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/AhtxbnpG/versions/IuNlZiqd/ExtendedDrawers-4.0.1%2Bmc.1.21.4.jar"

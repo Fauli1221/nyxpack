@@ -97,6 +97,10 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fuji.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/goml-reserved.pw.toml"
 metafile = true
 
