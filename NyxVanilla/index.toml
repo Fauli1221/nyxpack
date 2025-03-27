@@ -1,6 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/minelp.json"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 metafile = true
 
