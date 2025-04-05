@@ -175,6 +175,10 @@ file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 metafile = true
 
@@ -208,6 +212,10 @@ metafile = true
 
 [[files]]
 file = "mods/roguelikedungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
 metafile = true
 
 [[files]]
