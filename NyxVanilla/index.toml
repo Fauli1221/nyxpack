@@ -279,6 +279,10 @@ file = "mods/universal-graves.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-refresh.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 metafile = true
 
