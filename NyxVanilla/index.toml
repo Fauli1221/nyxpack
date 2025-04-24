@@ -1,10 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/bluemap/core.conf"
+
+[[files]]
 file = "config/yosbr/config/minelp.json"
 
 [[files]]
-file = "config/yosbr/servers.dat"
+file = "config/yosbr/config/polymer/auto-host.json"
+
+[[files]]
+file = "config/yosbr/config/polymer/resource-pack.json"
+
+[[files]]
+file = "config/yosbr/config/polymer/resourcepack/sparkles.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
@@ -12,6 +22,10 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/arcana-novum.pw.toml"
 metafile = true
 
 [[files]]
@@ -39,11 +53,19 @@ file = "mods/bluemap.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/borukva-food.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/brewery.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/camera-obscura.pw.toml"
 metafile = true
 
 [[files]]
@@ -187,6 +209,10 @@ file = "mods/modernfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-tools.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/morefurnaces.pw.toml"
 metafile = true
 
@@ -255,6 +281,10 @@ file = "mods/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sit!.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 metafile = true
 
@@ -292,6 +322,10 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/televator.pw.toml"
 metafile = true
 
 [[files]]
@@ -396,11 +430,4 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
-metafile = true
-
-[[files]]
-file = "resources/resourcepack/required/resource_pack.zip"
-
-[[files]]
-file = "resources/resourcepack/required/sparkles.pw.toml"
 metafile = true
