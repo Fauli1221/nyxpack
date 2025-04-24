@@ -35,10 +35,6 @@ file = "mods/blahaj-polymerized.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/bluemap-polymer-patch.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 metafile = true
 
