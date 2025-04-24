@@ -79,10 +79,6 @@ file = "mods/debugify.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 metafile = true
 
@@ -332,10 +328,6 @@ metafile = true
 
 [[files]]
 file = "mods/universal-shops.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/vanilla-refresh.pw.toml"
 metafile = true
 
 [[files]]
