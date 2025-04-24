@@ -13,10 +13,6 @@ file = "config/yosbr/config/polymer/auto-host.json"
 file = "config/yosbr/config/polymer/resource-pack.json"
 
 [[files]]
-file = "config/yosbr/config/polymer/resourcepack/sparkles.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/additional-structures.pw.toml"
 metafile = true
 
@@ -430,4 +426,8 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/sparkles.pw.toml"
 metafile = true
