@@ -1,0 +1,13 @@
+name = "More Furnaces (Polymer)"
+filename = "morefurnaces-1.1.2+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/l5c3cXjI/versions/UqaW3uEA/morefurnaces-1.1.2%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "329151d86a6a8d03fe51479ccf17502707ad798f9f91d82705b8d9a485ad6b7d2b5c9aff845059dc038c1b28a2c83f465e045e8a7cd95b707e1e04f0e18db3d7"
+
+[update]
+[update.modrinth]
+mod-id = "l5c3cXjI"
+version = "UqaW3uEA"

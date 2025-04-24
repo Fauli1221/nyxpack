@@ -27,6 +27,18 @@ file = "mods/audioplayer.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/baby-fat-polymer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blahaj-polymerized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bluemap-polymer-patch.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 metafile = true
 
@@ -111,7 +123,15 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/filament.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fuji.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/glide-away.pw.toml"
 metafile = true
 
 [[files]]
@@ -120,6 +140,10 @@ metafile = true
 
 [[files]]
 file = "mods/hd-skins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/illager-expansion-polymer.pw.toml"
 metafile = true
 
 [[files]]
@@ -171,6 +195,10 @@ file = "mods/modernfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/morefurnaces.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
@@ -219,6 +247,10 @@ file = "mods/scalablelux.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/serverbacksnow.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 metafile = true
 
@@ -240,6 +272,10 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sswaystones.pw.toml"
 metafile = true
 
 [[files]]
@@ -271,11 +307,35 @@ file = "mods/terralith.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/toms-mobs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/trinkets-polymer.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tsa-concrete.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tsa-decorations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tsa-planks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tsa-stone.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/universal-shops.pw.toml"
 metafile = true
 
 [[files]]
@@ -296,6 +356,58 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
 metafile = true
 
 [[files]]

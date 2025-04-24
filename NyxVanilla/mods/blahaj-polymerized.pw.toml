@@ -1,0 +1,13 @@
+name = "Blahaj Polymerized"
+filename = "blahaj-fabric-polymerized-3.1.3+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/s20gX2h8/versions/27hMyySt/blahaj-fabric-polymerized-3.1.3%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "b46a3edee943a6a850bf4f960ecfa4a25549fdd652e818ba4ce072dc3b51b09325c2a93c3408e6d693b107ea846d4505441136c377af0e18b1f3b28ac7039ee1"
+
+[update]
+[update.modrinth]
+mod-id = "s20gX2h8"
+version = "27hMyySt"
