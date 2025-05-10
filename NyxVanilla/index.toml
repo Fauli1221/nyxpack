@@ -233,6 +233,10 @@ file = "mods/nullscape.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/otterlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/polydecorations.pw.toml"
 metafile = true
 
