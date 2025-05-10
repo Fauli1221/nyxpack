@@ -125,6 +125,10 @@ file = "mods/filament.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/floodgate.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fuji.pw.toml"
 metafile = true
 
@@ -322,6 +326,10 @@ metafile = true
 
 [[files]]
 file = "mods/televator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terralith-biome-saplings.pw.toml"
 metafile = true
 
 [[files]]
