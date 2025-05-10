@@ -37,10 +37,6 @@ file = "mods/baby-fat-polymer.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-nether-map.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 metafile = true
 
