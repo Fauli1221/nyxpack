@@ -8,7 +8,8 @@
   "_c6": "Included resource packs from zips!",
   "include_zips": [
     "world/resources.zip",
-    "resources/resourcepack/required/Sparkles_1.21.x.zip"
+    "resources/resourcepack/required/Sparkles_1.21.x.zip",
+    "resources/resourcepack/required/Sparkles_ADDON_AlphaIslands.zip"
   ],
   "_c7": "Path used for creation of default resourcepack!",
   "resource_pack_location": "polymer/resource_pack.zip",
