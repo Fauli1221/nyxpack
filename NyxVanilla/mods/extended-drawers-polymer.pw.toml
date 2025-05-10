@@ -1,13 +1,13 @@
 name = "Polymer Patch for Extended Drawers"
-filename = "extended-drawers-polymer-patch-4.0.1.0+1.21.4.jar"
+filename = "extended-drawers-polymer-patch-4.1.0.0+1.21.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/TIgnE8wT/versions/8W7BMOO9/extended-drawers-polymer-patch-4.0.1.0%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/TIgnE8wT/versions/tghNEodE/extended-drawers-polymer-patch-4.1.0.0%2B1.21.5.jar"
 hash-format = "sha512"
-hash = "ec57f3562071f73721e71b5d1c2cba883ef032e97b78dc53b7521d0b3daab206f53ac297db6d7c7b9fcb9ecd93c7b41d55f473775ddcdd427357f9af26265869"
+hash = "66c6d3bdef64858d8e22acb2e0fd1587395e161fc7daa439a36ab85eddc20d0d26a3cbf73eace7f7f6ff0369ff01c436bc641f7e121a219d663168299863b928"
 
 [update]
 [update.modrinth]
 mod-id = "TIgnE8wT"
-version = "8W7BMOO9"
+version = "tghNEodE"

@@ -1,13 +1,13 @@
 name = "Incendium"
-filename = "Incendium_1.21.x_v5.4.4.jar"
+filename = "Incendium_1.21.x_v5.4.6.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZVzW5oNS/versions/7mVvV9Th/Incendium_1.21.x_v5.4.4.jar"
+url = "https://cdn.modrinth.com/data/ZVzW5oNS/versions/CxlxCNyx/Incendium_1.21.x_v5.4.6.jar"
 hash-format = "sha512"
-hash = "ca897be9059ea691860715dac6c0ccd934720d7d42c8af45b95257e8f91a6c9470f506bfb9ef3c770e6a6c57e58885add2126150a35927848817433fd227ce0e"
+hash = "b432aab5c359745ed7b19da0ea4d7921b059def10f45082e54de7f3b25c9991edbe41c88012f6850e90b3386e615c49d24d4237cb4e10b69af0c18a0568929eb"
 
 [update]
 [update.modrinth]
 mod-id = "ZVzW5oNS"
-version = "7mVvV9Th"
+version = "CxlxCNyx"

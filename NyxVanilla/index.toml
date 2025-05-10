@@ -21,10 +21,6 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/arcana-novum.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 metafile = true
 
@@ -73,15 +69,7 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/continents.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cpmoscc.pw.toml"
 metafile = true
 
 [[files]]
@@ -198,10 +186,6 @@ metafile = true
 
 [[files]]
 file = "mods/mo-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -374,58 +358,6 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-desert-temples.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-dungeons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-end-island.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-jungle-temples.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-mineshafts.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-ocean-monuments.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-witch-huts.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-bridges.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-extras.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yungs-menu-tweaks.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "PolyFactory"
-filename = "polyfactory-0.6.4+1.21.4.jar"
+filename = "polyfactory-0.7.1+1.21.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/MikpSrAF/versions/CBY6KLjd/polyfactory-0.6.4%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/MikpSrAF/versions/6TpfrCzs/polyfactory-0.7.1%2B1.21.5.jar"
 hash-format = "sha512"
-hash = "1c9623f101fa87066764ebcf0fe200ec3d679a80de2cc02b721e5306f99246e5ab5b26f60a79d95fd7913f4fffedb5c5088125ae4d63ac69ad7d8a80cc403125"
+hash = "8315d6a0503c44e28732f90c490a6050164229e8d50d79c663a1bd43e7107f39c97aa629de099386418ad8ecf9d952722c22bce4f8350845d944f32a26afbce5"
 
 [update]
 [update.modrinth]
 mod-id = "MikpSrAF"
-version = "CBY6KLjd"
+version = "6TpfrCzs"

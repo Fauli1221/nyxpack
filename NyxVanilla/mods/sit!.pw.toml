@@ -1,13 +1,13 @@
 name = "Sit!"
-filename = "sit!-1.2.3.2+1.21.4.jar"
+filename = "sit!-1.2.4.0+1.21.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/EsYqsGV4/versions/p95f9ot4/sit%21-1.2.3.2%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/EsYqsGV4/versions/ANCsofgi/sit%21-1.2.4.0%2B1.21.5.jar"
 hash-format = "sha512"
-hash = "c4d61ed838b5de10789ab221d089274de11940834f1762b249c68e63953eca0ad3559567cc3c8425680d6a14d856ebace35fa41de849335feee0d07258eae465"
+hash = "f797a1d6e54b48ea5c9cc32601e0074aa486ca5db970f7701340b1bdef3c7d760311eb9b31adeedc070750e73182c4414b8c7bd03c58887d570fd32e75dd18c6"
 
 [update]
 [update.modrinth]
 mod-id = "EsYqsGV4"
-version = "p95f9ot4"
+version = "ANCsofgi"
