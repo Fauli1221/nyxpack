@@ -361,5 +361,45 @@ file = "mods/yosbr.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+metafile = true
+
+[[files]]
 file = "resources/resourcepack/required/sparkles.pw.toml"
 metafile = true

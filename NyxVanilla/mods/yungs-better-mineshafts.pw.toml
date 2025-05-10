@@ -1,0 +1,7 @@
+name = "YUNGs-Better-Mineshafts"
+filename = "YungsBetterMineshafts-1.21.5-Fabric-5.2.1.jar"
+
+[download]
+url = "https://github.com/timelord1102/YUNGs-Better-Mineshafts/releases/download/1.21.5-5.2.1/YungsBetterMineshafts-1.21.5-Fabric-5.2.1.jar"
+hash-format = "sha256"
+hash = "0330c1a2c055440a7273f92dbba745cde432494286d5de1452e54debeaa13f2e"

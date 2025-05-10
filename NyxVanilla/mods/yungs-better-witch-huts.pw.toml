@@ -1,0 +1,7 @@
+name = "YUNGs-Better-Witch-Huts"
+filename = "YungsBetterWitchHuts-1.21.5-Fabric-4.2.0.jar"
+
+[download]
+url = "https://github.com/timelord1102/YUNGs-Better-Witch-Huts/releases/download/1.21.5-4.2.0/YungsBetterWitchHuts-1.21.5-Fabric-4.2.0.jar"
+hash-format = "sha256"
+hash = "113ab7073475fb1d4a07202d0e38402ebd7acf90cbd50c862e971e368f615064"

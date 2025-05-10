@@ -1,0 +1,7 @@
+name = "YUNGs-API"
+filename = "YungsApi-1.21.5-Fabric-5.5.3.jar"
+
+[download]
+url = "https://github.com/timelord1102/YUNGs-API/releases/download/1.21.5-5.5.3/YungsApi-1.21.5-Fabric-5.5.3.jar"
+hash-format = "sha256"
+hash = "5c46abeeb6a3aa4a50996511c16248c0c49ada4c20f2b78ebbdba59fcd13abeb"
