@@ -41,10 +41,6 @@ file = "mods/better-nether-map.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-polymerized.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 metafile = true
 
@@ -233,10 +229,6 @@ file = "mods/nullscape.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/otterlib.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/polydecorations.pw.toml"
 metafile = true
 
@@ -342,10 +334,6 @@ metafile = true
 
 [[files]]
 file = "mods/toms-mobs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/trampleless.pw.toml"
 metafile = true
 
 [[files]]
