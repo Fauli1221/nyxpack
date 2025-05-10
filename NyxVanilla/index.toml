@@ -13,10 +13,6 @@ file = "config/yosbr/config/polymer/auto-host.json"
 file = "config/yosbr/config/polymer/resource-pack.json"
 
 [[files]]
-file = "mods/additional-structures.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -38,6 +34,10 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
@@ -370,6 +370,10 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
 metafile = true
 
 [[files]]
